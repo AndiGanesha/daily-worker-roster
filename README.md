@@ -74,8 +74,8 @@ When you run the dockerfile i added some pre-seed data to be tested
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/roster-management.git
-cd roster-management
+git clone https://github.com/AndiGanesha/daily-worker-roster.git
+cd daily-worker-roster
 ```
 
 2. Build and Start All Services
@@ -86,8 +86,8 @@ docker-compose up --build
 
     The backend (Go API) will run on host:8080
 
-    The frontend (Svelte) will run on host:3000
+    The frontend (Svelte) will run on host:8080
 
 3. Access the App
 
-    Open host:3000 in your browser.
+    Open host:8080 in your browser.
