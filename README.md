@@ -84,10 +84,10 @@ cd roster-management
 docker-compose up --build
 ```
 
-    The backend (Go API) will run on http://localhost:8080
+    The backend (Go API) will run on host:8080
 
-    The frontend (Svelte) will run on http://localhost:3000
+    The frontend (Svelte) will run on host:3000
 
 3. Access the App
 
-    Open http://localhost:3000 in your browser.
+    Open host:3000 in your browser.
